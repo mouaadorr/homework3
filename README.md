@@ -537,7 +537,7 @@ int main(int argc, char *argv[])
 
 &nbsp;
 
-![cp1](cp1.mov)
+https://user-images.githubusercontent.com/93826833/142732378-cc607fd4-69b1-4d32-bdda-1d60754dfdf6.MP4
 
 
 &nbsp;
@@ -545,7 +545,7 @@ int main(int argc, char *argv[])
 
 &nbsp;
 
-![cp2](cp2.mp4)
+https://user-images.githubusercontent.com/93826833/142732431-6ba1fb2b-b9fa-41f5-bc25-8be74f9fddb0.mov
 
 
 &nbsp;
@@ -653,10 +653,6 @@ int main(int argc, char *argv[])
 > In summary, Qt's signal/slot is to solve the communication problem between objects, while avoiding memory field pointers and object life cycle problems caused by shared pointers.
 
 
-https://user-images.githubusercontent.com/93826833/142732378-cc607fd4-69b1-4d32-bdda-1d60754dfdf6.MP4
 
-
-
-https://user-images.githubusercontent.com/93826833/142732431-6ba1fb2b-b9fa-41f5-bc25-8be74f9fddb0.mov
 
 
