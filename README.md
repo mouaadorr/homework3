@@ -652,3 +652,7 @@ int main(int argc, char *argv[])
 
 > In summary, Qt's signal/slot is to solve the communication problem between objects, while avoiding memory field pointers and object life cycle problems caused by shared pointers.
 
+
+https://user-images.githubusercontent.com/93826833/142732378-cc607fd4-69b1-4d32-bdda-1d60754dfdf6.MP4
+
+
